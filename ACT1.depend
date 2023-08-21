@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1692578315 source:d:\documentos\6tosemestre\sspa\act1\main.cpp
+	<iostream>
+	<string>
+	"paquete.h"
+	"paqueteria.h"
+
+1692576484 d:\documentos\6tosemestre\sspa\act1\paquete.h
+	<iostream>
+	<string>
+
+1692577923 d:\documentos\6tosemestre\sspa\act1\paqueteria.h
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+
+1692576511 source:d:\documentos\6tosemestre\sspa\act1\paquete.cpp
+	"paquete.h"
+
